@@ -12,5 +12,5 @@ https://www.medrxiv.org/content/10.1101/2025.01.14.25320560v1#p-5
 All custom analysis scripts have been uploaded to this repository to ensure reproducibility.
 
 ### Repository Structure
-- `analysis-pipelines/mvp-ltl-notebook.ipynb` - Contains analysis for TelSeq data
-- `analysis-pipelines/DNAmTL_TelSeq_annotated.R` - Contains analysis for DNAmTL data
+- `analysis-pipelines/TelSeq_analysis.ipynb` - Contains analysis for TelSeq data
+- `analysis-pipelines/DNAmTL_analysis.R` - Contains analysis for DNAmTL data
